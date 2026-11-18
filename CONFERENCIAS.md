@@ -10,28 +10,28 @@ Todos os prazos devem ser conferidos de novo no site antes da submissão, porque
 
 ## Calendário dos prazos em aberto
 
-| Nº | Prazo | Conferência | O que vence |
-|---|---|---|---|
-| 1 | 19/11/2026 | ATC 2027 | Resumos (prazo principal) |
-| 2 | 20/11/2026 | KHIPU 2027 | Propostas de workshop (não há trilha de artigos) |
-| 3 | 25/11/2026 | ESANN 2027 | Artigo completo (prorrogado) |
-| 4 | 15/12/2026 | KHIPU 2027 | Startup Track, primeira rodada |
-| 5 | 19/01/2027 | ATC 2027 | Resumos late-breaking |
-| 6 | 20/01/2027 | IEEE CBMS 2027 | Artigo completo, curto ou pôster |
-| 7 | 24/01/2027 | IEEE EMBC 2027 | Artigo completo |
-| 8 | 25/01/2027 | IEEE ICHI 2027 | Resumo (artigo em 01/02) |
-| 9 | 31/01/2027 | AIME 2027 | Resumo (artigo em 07/02) |
-| 10 | 31/01/2027 | IJCNN 2027 | Artigo completo |
-| 11 | 31/01/2027 | MEDINFO 2027 | Artigos e pôsteres (data divergente, ver nota) |
-| 12 | 01/02/2027 | xAI 2027 | Artigo completo ou curto |
-| 13 | 03/02/2027 | CHIL 2027 | Artigo completo |
-| 14 | 14/02/2027 | IFSA-EUSFLAT 2027 | Artigo completo, comunicação ou resumo |
-| 15 | 15/02/2027 | KHIPU 2027 | Startup Track, prazo final |
-| 16 | 20/03/2027 | xAI 2027 | Late-breaking work |
-| 17 | 31/03/2027 | ESOT 2027 | Resumos |
-| 18 | 01/04/2027 | FUZZ-IEEE 2027 | Artigo completo |
-| 19 | 23/04/2027 | IEEE EMBC 2027 | Pôster de 1 página |
-| 20 | a divulgar | NAFIPS-CBSF, BRACIS, ENIAC, SBCAS, CBIS, CBIC, ABTO | Chamadas de 2027 ainda não publicadas |
+| Nº | Prazo | Conferência | País | O que vence |
+|---|---|---|---|---|
+| 1 | 19/11/2026 | ATC 2027 | Estados Unidos | Resumos (prazo principal) |
+| 2 | 20/11/2026 | KHIPU 2027 | Brasil | Propostas de workshop (não há trilha de artigos) |
+| 3 | 25/11/2026 | ESANN 2027 | Bélgica | Artigo completo (prorrogado) |
+| 4 | 15/12/2026 | KHIPU 2027 | Brasil | Startup Track, primeira rodada |
+| 5 | 19/01/2027 | ATC 2027 | Estados Unidos | Resumos late-breaking |
+| 6 | 20/01/2027 | IEEE CBMS 2027 | Itália | Artigo completo, curto ou pôster |
+| 7 | 24/01/2027 | IEEE EMBC 2027 | Singapura | Artigo completo |
+| 8 | 25/01/2027 | IEEE ICHI 2027 | Estados Unidos | Resumo (artigo em 01/02) |
+| 9 | 31/01/2027 | AIME 2027 | Países Baixos | Resumo (artigo em 07/02) |
+| 10 | 31/01/2027 | IJCNN 2027 | África do Sul | Artigo completo |
+| 11 | 31/01/2027 | MEDINFO 2027 | Emirados Árabes Unidos | Artigos e pôsteres (data divergente, ver nota) |
+| 12 | 01/02/2027 | xAI 2027 | Itália (não confirmado) | Artigo completo ou curto |
+| 13 | 03/02/2027 | CHIL 2027 | Estados Unidos | Artigo completo |
+| 14 | 14/02/2027 | IFSA-EUSFLAT 2027 | Itália | Artigo completo, comunicação ou resumo |
+| 15 | 15/02/2027 | KHIPU 2027 | Brasil | Startup Track, prazo final |
+| 16 | 20/03/2027 | xAI 2027 | Itália (não confirmado) | Late-breaking work |
+| 17 | 31/03/2027 | ESOT 2027 | República Tcheca | Resumos |
+| 18 | 01/04/2027 | FUZZ-IEEE 2027 | Austrália | Artigo completo |
+| 19 | 23/04/2027 | IEEE EMBC 2027 | Singapura | Pôster de 1 página |
+| 20 | a divulgar | NAFIPS-CBSF, BRACIS, ENIAC, SBCAS, CBIS, CBIC, ABTO | Brasil | Chamadas de 2027 ainda não publicadas |
 
 ## Relevância alta
 
